@@ -1,4 +1,4 @@
-# Listed - first md Rails app 
+# Listed
 
 Rails app number one from
 [Matthew Dressman](http://mdressman.com/).
